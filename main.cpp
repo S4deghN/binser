@@ -3,7 +3,6 @@
 int
 main()
 {
-    int x = sizeof(message);
     message m;
     m.h.x.f = 1234;
     m.h.type = 0;
